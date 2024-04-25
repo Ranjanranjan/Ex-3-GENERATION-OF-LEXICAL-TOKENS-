@@ -1,5 +1,5 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
-#DATE:23-02-24
+DATE:23-02-24
 # AIM
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
